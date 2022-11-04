@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cemkgrbz.github.io/static/css/main.7336b61b.css",
+    "main.js": "/cemkgrbz.github.io/static/js/main.692c515b.js",
+    "index.html": "/cemkgrbz.github.io/index.html",
+    "main.7336b61b.css.map": "/cemkgrbz.github.io/static/css/main.7336b61b.css.map",
+    "main.692c515b.js.map": "/cemkgrbz.github.io/static/js/main.692c515b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7336b61b.css",
+    "static/js/main.692c515b.js"
+  ]
+}
